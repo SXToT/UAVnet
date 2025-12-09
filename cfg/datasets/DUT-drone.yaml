@@ -1,0 +1,10 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: # dataset root dir
+train: ./datasets/Antidrone/train/images # train images (relative to 'path')  6471 images
+val: ./datasets/Antidrone/val/images # val images (relative to 'path')  548 images
+test: # test images (optional)  1610 images
+
+# Classes
+nc: 1
+names:
+  0: drone
