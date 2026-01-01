@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ultralytics/ultralytics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultralytics/ultralytics/nn" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultralytics/ultralytics/nn/modules" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pytorch_wavelets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultralytics" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="D:\miniconda\envs\sod_1" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
